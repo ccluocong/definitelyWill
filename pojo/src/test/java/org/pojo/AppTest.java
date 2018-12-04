@@ -1,4 +1,4 @@
-package com.cc.definitelyWill;
+package org.pojo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

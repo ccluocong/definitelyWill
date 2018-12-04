@@ -1,4 +1,4 @@
-package com.cc.definitelyWill;
+package org.datasouce;
 
 /**
  * Hello world!
